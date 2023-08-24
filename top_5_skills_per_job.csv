@@ -1,0 +1,11 @@
+jobTitle,skill_1,freq_1,skill_2,freq_2,skill_3,freq_3,skill_4,freq_4,skill_5,freq_5
+Backend Developer,java,67,aws,63,python,59,react,48,javascript,47
+Data Analyst,sql,315,python,219,excel,193,tableau,164,power,114
+Data Scientist,python,141,sql,121,r,93,tableau,49,aws,32
+Frontend Developer,javascript,78,html,60,react,60,css,53,sql,28
+Fullstack Developer,javascript,223,aws,180,react,165,sql,155,java,151
+IT Support,office,95,windows,75,ios,15,jira,9,linux,8
+Penetration Tester,linux,33,windows,29,python,27,java,16,metasploit,16
+Security Analyst,javascript,223,aws,180,react,165,sql,155,java,151
+UI Designer,wireframes,82,user flow,78,prototypes,61,figma,45,javascript,40
+UX Designer,prototypes,87,user flow,87,wireframes,81,figma,81,adobe,60
