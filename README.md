@@ -6,4 +6,4 @@ The original dataset was given to me and is original data not found anywhere els
 
 Here is the Tableau dashboard link: https://public.tableau.com/app/profile/ravinder.rai/viz/JuniorJobData/Dashboard1?publish=yes
 
-![Junior Job Dashboard](https://github.com/RavinderRai/Junior_Job_Data/Screenshot_Junior_Job_Dashboard.jpg)
+![Junior Job Dashboard](Screenshot_Junior_Job_Dashboard.jpg)
